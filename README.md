@@ -1,5 +1,5 @@
 <h1 align="center" style="color:red;text-shadow:1px 2px  2px rgb(164, 241, 255);">Hi 👋, I'm <span style="color:rgb(18, 168, 168);text-shadow: 2px 2px 2px rgb(84, 235, 235);">najia Knizi</span> </h1>
-<h3 align="center" style="color:rgb(255, 217, 0)">A passionate frontend developer from morocco</h3>
+<h3 align="center" style="color:rgb(255, 217, 0)">Développeuse full stack Web </h3>
 
 <h3 align="left" style="color: rgb(16, 129, 133);border-bottom: 2px solid rgba(255, 238, 0, 0.938);width: 142;">Connect with me:</h3>
 <p align="left">
